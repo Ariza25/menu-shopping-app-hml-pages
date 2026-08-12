@@ -1,1 +1,0 @@
-const e={deliveryZones:[],description:"",estimatedMinutes:35,id:"store_1",address:"",facebook:"",isOpen:!0,instagram:"",logoUrl:"",minimumOrder:2500,tableOrderFlow:"pay_now",name:"",openingHours:"",pixKey:"",legalName:"",cnpj:"",tiktok:"",whatsapp:""};export{e};
