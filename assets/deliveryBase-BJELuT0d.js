@@ -1,1 +1,0 @@
-const r="https://cardapio.menushopping.com.br";function n(){const e="https://cardapio-hml.menushopping.com.br".trim()||void 0;return i(e||r)}function u(e){return`${n()}/${encodeURIComponent(e)}/menu`}function o(e){return`${n()}/${encodeURIComponent(e)}/self-service/setup`}function i(e){return e.replace(/\/+$/,"")}export{u as a,o as b,n as r};
