@@ -1,0 +1,1 @@
+import{j as e}from"./index-DVKy7Tff.js";function n({title:t,subtitle:s,children:r}){return e.jsxs("header",{className:"flex flex-col gap-4 md:flex-row md:items-center md:justify-between",children:[e.jsxs("div",{children:[e.jsx("h2",{className:"font-headline text-3xl font-extrabold text-[var(--color-ink)]",children:t}),e.jsx("p",{children:s})]}),r]})}export{n as T};
